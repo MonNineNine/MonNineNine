@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi there, I'm Mon99!
 
-<!--
-**MonNineNine/MonNineNine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I’m passionate about building modern and efficient **web applications**.  
+🐍 Currently learning **Python** for web development, with a focus on **Flask** (backend).  
+🌐 Building skills in **HTML**, **CSS**, and **JavaScript** to create modern websites.  
+🚀 Exploring full-stack development, automation, and deploying real-world apps.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+- 🧠 Languages: Python, HTML, CSS, JavaScript
+- 🔧 Tools: Git, GitHub, VS Code
+- 📚 Currently learning: Flask, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Looking to:
+- Collaborate on beginner-friendly web projects
+- Contribute to open-source in Python/Flask
+
+### 📬 How to reach me:
+- 📧 Email: [tuanphtshop@gmail.com](mailto:tuanphtshop@gmail.com)
+- 💬 Telegram: [@MonNinenine](https://t.me/MonNinenine)
